@@ -1,2 +1,2 @@
 # 7daysofcode-alura
-Consiste em praticar e desenvolver o desafio 37DaysOfCode da Alura.
+Consiste em praticar e desenvolver o desafio #7DaysOfCode da Alura.
